@@ -10,16 +10,20 @@ Læs **ALLE TRIN** inden du får igang - så du har et lille overblik over opgav
 
 ## Trin 1.
 
+![Alt text](site.png "a title")
+
 ### Arbejd Selv
 * Opret et nyt frisk projekt med en global navigation, iconer, fonte.
-    * Du kan genbruge et gammel som du tilpasser, det er op til dig.
-    * Det er en god ide at "øve" sig i at lave et projekt hurtig klar det gør dig istnad til hurtigt at teste/ændre fremover og hver gang bliver du klogere på din opsætning.
+    * Du kan genbruge et gammelt projekt som du tilpasser, det er op til dig.
+    * Det er en god ide at "øve" sig i at lave et projekt klar, det gør dig istand til hurtigt at teste/ændre fremover og hver gang bliver du klogere på din opsætning.
 
-* Projektet skal i føste omgang have føkengde struktur.
+* Projektet skal i første omgang have følhende struktur.
     * En Forside.
-    * En Album sider.
+    * En Album side.
 
 * Der skal linkes til begge sider fra den globale menu.
+    * "/"
+    * "/album"
 
 ## Trin 2.
 
