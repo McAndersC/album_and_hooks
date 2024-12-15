@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 
 album.drawio
+*_temp.md
